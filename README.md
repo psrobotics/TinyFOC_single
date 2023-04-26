@@ -14,7 +14,7 @@ Design file exported with [Autodesk EAGLE](https://www.autodesk.com/products/eag
 
 ## ICs
 * MCU [Atmega328P](https://www.microchip.com/en-us/product/ATmega328P)
-* Motor driver [DRV8313](https://www.ti.com/product/DRV8313?utm_source=google&utm_medium=cpc&utm_campaign=asc-null-null-GPN_EN-cpc-pf-google-wwe&utm_content=DRV8313&ds_k=DRV8313&DCM=yes&gclid=EAIaIQobChMIroSGo5PH_gIV7TatBh0lfQ1tEAAYASAAEgJeRvD_BwE&gclsrc=aw.ds)
+* Motor driver [DRV8313](https://www.ti.com/product/DRV8313?utm_source=google&utm_medium=cpc&utm_campaign=asc-null-null-GPN_EN-cpc-pf-google-wwe&utm_content=DRV8313&ds_k=DRV8313&DCM=yes&gclid=EAIaIQobChMIroSGo5PH_gIV7TatBh0lfQ1tEAAYASAAEgJeRvD_BwE&gclsrc=aw.ds) or [MS8313](https://www.lcsc.com/product-detail/Others_Hangzhou-Ruimeng-Tech-MS8313_C231942.html)
 * Encoder [AS5600](https://ams.com/en/as5600)
 
 ## Pin Out
